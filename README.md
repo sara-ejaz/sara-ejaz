@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 im currently working ata drovian innovations<br>👯A expert forntend developer<br>🤝 I’m software engineer<br>💻 I’m currently learning three.js<br>💬 if im not working im busy in exploring new things<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saraejaz) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sara ejaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saraejaz986@gmail.com) 
